@@ -1,5 +1,11 @@
 # @westpac/core
 
+## 3.2.0
+
+### Minor Changes
+
+- bf4dc0e5: Updated the Core Component Utilities to use TypeScript.
+
 ## 3.1.0
 
 ### Minor Changes
